@@ -1,0 +1,5 @@
+Producto: Producto 1, Precio: 10, Cantidad: 5, Total: 50
+Producto: Producto 2, Precio: 20, Cantidad: 3, Total: 60
+Producto: Producto 3, Precio: 15, Cantidad: 2, Total: 30
+Producto: Producto 4, Precio: 5, Cantidad: 10, Total: 50
+Producto: Producto 5, Precio: 30, Cantidad: 1, Total: 30

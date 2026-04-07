@@ -1,0 +1,9 @@
+La inteligencia artificial es una rama de la informática que busca crear
+sistemas capaces de realizar tareas que normalmente requieren
+inteligencia humana, como el reconocimiento de voz, la toma de
+decisiones o la traducción de idiomas. A lo largo de los años,
+su avance ha permitido el desarrollo de tecnologías como los
+asistentes virtuales, los vehículos autónomos y los sistemas
+de recomendación. Sin embargo, su implementación también plantea
+desafíos éticos y sociales que deben ser cuidadosamente 
+considerados.

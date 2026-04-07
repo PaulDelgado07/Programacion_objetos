@@ -1,0 +1,7 @@
+Nombre;Edad;Salario;Fecha;Categoria
+Ana;23;50000.5;2020-01-15;Electronica
+Carlos;35;70000.8;2019-06-23;Ropa
+Beatriz;29;65000.3;2021-03-10;Electronica
+N/A;-;-;N/A;Ropa
+David;40;80000.0;2018-12-01;Electronica
+Elena;30;75000.5;N/A;Ropa
