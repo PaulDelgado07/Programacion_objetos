@@ -1,0 +1,50 @@
+"""
+ Ejercicio: Sistema de gestión de estudiantes
+
+Vas a crear un programa que funcione como un mini sistema con menú.
+
+ Requisitos
+
+El programa debe mostrar un menú así:
+
+1. Agregar estudiante
+2. Mostrar estudiantes
+3. Calcular promedio general
+4. Buscar estudiante
+5. Salir
+ 
+Funcionalidades
+
+1. Agregar estudiante
+
+Pide:
+Nombre
+Nota
+Guarda los datos en una estructura (lista de diccionarios)
+
+Ejemplo:
+
+{"nombre": "Juan", "nota": 8}
+
+2. Mostrar estudiantes
+
+Muestra todos los estudiantes registrados
+
+3. Calcular promedio general
+
+Suma todas las notas y saca el promedio
+
+4. Buscar estudiante
+
+Pide un nombre
+Si existe → muestra su nota
+Si no → muestra "No encontrado"
+
+5. Salir
+
+Termina el programa
+  Reglas importantes
+Usa un while para que el menú se repita
+Usa listas y diccionarios
+Valida que no se rompa el programa si no hay datos
+"""
